@@ -1,3 +1,4 @@
 Git commands even a monkey can understand
 Information for the pull request.
+This should conflict with the other
 Resolve this conflict.
